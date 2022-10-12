@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    border: 0;
+    background-color: #75F4F4;    
+}
+.container{
+    background-color: #75F4F4;  
+}
+.uno{
+    height: 240px;
+    width: 240px;
+    background-color: #90E0F3;
+    border-radius: 12px;
+}
+.dos{
+    height: 240px;
+    width: 240px;
+    background-color: #B8B3E9;
+    border-radius: 12px;    
+
+}
+.tres{
+    height: 240px;
+    width: 240px;
+    background-color: #D999B9;
+    border-radius: 12px;
+
+}
